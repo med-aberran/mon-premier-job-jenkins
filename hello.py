@@ -20,5 +20,5 @@ print(f"{a} + {b} = {a + b}")
 print(f"{a} - {b} = {a - b}")
 
 # Test automatique
-assert a + b == 15, "Le test a echoue !"
+assert a + b == 100, "Le test a echoue intentionnellement !"
 print("Tous les tests passent avec succes !")
