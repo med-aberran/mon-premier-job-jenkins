@@ -21,4 +21,4 @@ print(f"{a} - {b} = {a - b}")
 
 # Simuler un test
 assert a + b == 15, "Le test a échoué !"
-print("✅ Tous les tests passent avec succès")
+print(" Tous les tests passent avec succès")
