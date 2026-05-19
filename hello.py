@@ -9,7 +9,7 @@ print("=" * 40)
 if len(sys.argv) > 1:
     nom = sys.argv[1]
 else:
-    nom = "Etudiant Jenkins"
+    nom = "Mohamed Aberran"
 
 print(f"Bonjour {nom}, ton job Jenkins a reussi !")
 
